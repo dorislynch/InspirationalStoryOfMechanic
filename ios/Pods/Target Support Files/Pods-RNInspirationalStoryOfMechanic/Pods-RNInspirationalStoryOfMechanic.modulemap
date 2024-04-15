@@ -1,0 +1,6 @@
+framework module Pods_RNInspirationalStoryOfMechanic {
+  umbrella header "Pods-RNInspirationalStoryOfMechanic-umbrella.h"
+
+  export *
+  module * { export * }
+}
